@@ -1216,7 +1216,8 @@ a {
 .macbook-pro .logo-ticker {
   display: flex;
   width: 1200px;
-  align-items: flex-start;
+  align-items: center;
+  justify-content: center;
   gap: 56px;
   padding: 48px 40px;
   position: absolute;
@@ -1252,14 +1253,14 @@ a {
 .macbook-pro .logo-echo {
   position: relative;
   width: 173.09px;
-  height: 32px;
+  height: 100px;
   object-fit: cover;
 }
 
 .macbook-pro .logo-celestial {
   position: relative;
-  width: 125.33px;
-  height: 32px;
+  width: 190.33px;
+  height: 100px;
   object-fit: cover;
 }
 
